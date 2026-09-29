@@ -169,7 +169,7 @@
 												Catch up on this event
 											<!-- </a>
 												<a
-													href="https://discord.gg/lofi-so"
+													href="https://discord.gg/nTJMgXjYru"
 													class="group flex items-center gap-2 text-sm text-slate-600 transition-colors hover:text-primary dark:text-slate-300"
 													target="_blank"
 													rel="noopener noreferrer"

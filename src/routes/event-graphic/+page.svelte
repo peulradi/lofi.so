@@ -154,7 +154,7 @@
 			timezone: EVENT_TZ,
 			speakers: [createEmptySpeaker()],
 			registrationUrl: 'https://lofi.so',
-			discordUrl: 'https://discord.gg/ZRrwZxn4rW',
+			discordUrl: 'https://discord.gg/nTJMgXjYru',
 			calendarUrl: 'https://calendar.google.com/calendar/event?action=TEMPLATE',
 			logoUrl: '/images/logo.png',
 			youtubeUrl: ''
@@ -536,7 +536,7 @@
 				}
 			],
 			registrationUrl: 'https://lofi.so',
-			discordUrl: 'https://discord.gg/ZRrwZxn4rW',
+			discordUrl: 'https://discord.gg/nTJMgXjYru',
 			calendarUrl: 'https://calendar.google.com/calendar/event?action=TEMPLATE',
 			logoUrl: '/images/logo.png',
 			youtubeUrl: ''

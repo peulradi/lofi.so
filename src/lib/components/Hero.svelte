@@ -23,7 +23,7 @@
 
 			<div class="mt-14 flex justify-center gap-4">
 				<a
-					href="https://discord.gg/ZRrwZxn4rW"
+					href="https://discord.gg/nTJMgXjYru"
 					target="_blank"
 					rel="noopener noreferrer"
 					class="inline-flex items-center gap-3 rounded-md bg-primary px-6 py-3 text-lg font-semibold text-white transition hover:bg-primary/90"

@@ -447,7 +447,7 @@
 						Catch Up on Past Events
 					</a>
 					<a
-						href="https://discord.gg/lofi-so"
+						href="https://discord.gg/nTJMgXjYru"
 						target="_blank"
 						rel="noopener noreferrer"
 						class="inline-flex items-center justify-center gap-2 rounded-lg bg-[#5865f2] px-4 py-2 text-white transition hover:bg-[#4752c4]"
